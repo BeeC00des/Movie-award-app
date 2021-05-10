@@ -1,7 +1,7 @@
 <template>
    <h1 class="main-text">Build this shit!</h1>
 </template>
-<style  scoped>
+<style  lang="scss">
    .main-text{
       color:red;
       font-size:30px;
